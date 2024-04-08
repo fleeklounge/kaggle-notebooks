@@ -1,0 +1,2 @@
+url,download,name
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand,kaggle datasets download jessemostipak/hotel-booking-demand --unzip --force --path ./datasets/jessemostipak/hotel-booking-demand,jessemostipak/hotel-booking-demand
